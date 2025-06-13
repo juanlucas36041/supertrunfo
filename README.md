@@ -53,7 +53,3 @@ HTML - Usado para layout
 CSS - Usado para estilo
 JAVASCRIPT - Usado para interatividadeAdd commentMore actions
 GitHub- Usado para trabalho colaborativo
-
-
-# Autora do projeto
-(Vanessa Borges)
